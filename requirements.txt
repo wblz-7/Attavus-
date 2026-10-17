@@ -1,0 +1,6 @@
+python-telegram-bot[job-queue]>=21.0
+aiohttp
+openai
+requests
+Pillow>=10.0
+qrcode[pil]
